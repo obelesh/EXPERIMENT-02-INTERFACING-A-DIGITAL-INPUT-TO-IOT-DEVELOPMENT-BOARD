@@ -202,10 +202,12 @@ void assert_failed(uint8_t *file, uint32_t line)
 ## OUTPUT
 
 **NOT DETECTED:**
+
 <img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/459814b8-df81-49c6-9290-92ac1d2e3692" />
 
 
 **DETECTED:**
+
 <img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/833ccd4b-6203-4323-bb98-56198d03a097" />
 
 ## Result
